@@ -2,7 +2,7 @@
 
 - **Overview:**
 
-This Excel Sales Report provides an overview of sales performance, revenue trends, and key metrics. The report is designed to help businesses analyze their sales data and make data-driven decisions.
+This P&L Report provides an overview of sales performance, revenue trends, and key metrics. The report is designed to help businesses analyze their sales data and make data-driven decisions.
 Features
 
 
