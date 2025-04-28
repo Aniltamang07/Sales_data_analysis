@@ -1,4 +1,4 @@
-## Sales Report :
+## Sales P&L report :
 
 - **Overview:**
 
